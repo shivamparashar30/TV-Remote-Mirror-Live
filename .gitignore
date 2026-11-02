@@ -1,0 +1,6 @@
+# Third-party: Gathin23/cleanyourtv, cloned separately (see README).
+# Kept out of this repo so it stays small and holds only our own work.
+cleanyourtv/
+
+# macOS
+.DS_Store
